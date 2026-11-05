@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# OS / logs
+*.log
+.DS_Store
+Thumbs.db

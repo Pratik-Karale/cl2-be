@@ -1,0 +1,15 @@
+# Information Retrieval
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.10
+matplotlib>=3.7
+nltk>=3.8
+pgmpy>=0.1.25
+networkx>=3.0
+beautifulsoup4>=4.12
+requests>=2.31
+
+# Quantum AI (Qiskit + local Aer simulator; no IBM account needed)
+qiskit>=1.0
+qiskit-aer>=0.14
